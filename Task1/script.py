@@ -1,0 +1,10 @@
+roscore
+rosrun Indian_Mass_Media government.py
+rosrun Indian_Mass_Media advertisers.py
+rosrun Indian_Mass_Media news_channel.py
+rosrun Indian_Mass_Media journalist.py
+rosrun Indian_Mass_Media opinionated_retard.py
+rosrun Indian_Mass_Media whatsapp_uncles.py
+rosrun Indian_Mass_Media independent_media.py
+rosrun Indian_Mass_Media research_scientific_community.py
+
